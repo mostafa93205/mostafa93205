@@ -17,10 +17,9 @@
 
 ## 🏆 Certifications
 - ISO 45001/2018 (Occupational Safety and Health)  
-- Digital Marketing – MUST  
+- Digital Marketing – SCEEP MUST  
 - Python 101 & Data Science  
 - Body Language & Business Etiquette – Almentor  
-- Biotechnology Conference – Mast University  
 
 ---
 
