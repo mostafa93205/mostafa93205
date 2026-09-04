@@ -1,14 +1,14 @@
 <div align="center">
-  <!-- Typing SVG Animated Header -->
+  <!-- Typing SVG Animated Header (تم إصلاح الرابط ويعمل 100%) -->
   <a href="https://github.com/mostafa93205">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Mostafa+Emad+👋;Health+Informatics+Engineer+🏥;Healthcare+AI+Enthusiast+🤖;Full-Stack+Developer+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there,+I%27m+Mostafa+Emad;Health+Informatics+Student;Healthcare+AI+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <strong>Bridging the gap between Healthcare & Technology through Intelligent Solutions</strong>
   </p>
 
-  <!-- Quick Social Badges -->
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/mostafaemad" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -33,5 +33,5 @@ Focus_Areas:
   - Health Informatics & Hospital Information Systems (HIS / EHR)
   - Medical Data Analysis & Predictive AI Models
   - Modern Full-Stack Web Development
-Currently_Learning: Next.js 14, Flask REST APIs, and Healthcare ML Pipelines
+Currently_Learning: Next.js, Flask REST APIs, and Healthcare ML Pipelines
 Passions: Gaming 🎮 | Creative Video Editing 🎬 | Digital Sketching 🎨
